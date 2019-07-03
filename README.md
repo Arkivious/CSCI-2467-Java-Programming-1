@@ -7,7 +7,9 @@ An individual can access the files by using a Java IDE, such as TextPad, eclipse
 
 Once the IDE is installed, the next step would be to complie and run the Java file from within the application of choice.
 
-There are alternative ways to write the majority of Code, but I wrote the code how the professor required.
+There are alternative ways to write the majority of the Code, but I wrote the code freely, however, based off the professor's
+
+request.
 
 Please feel free to comment.
 
