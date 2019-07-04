@@ -15,7 +15,7 @@ public static void main(String[]args)
 		//instantiated date object
 		Date date = new Date();
 
-		//Created a console splash screen with random information of a user by using spaces
+		//Printed a console splash screen with random information of a user by aligning spaces
 		System.out.println("**************************************************");
 		System.out.println("*                                                *");
 		System.out.println("*             *      * * * *   * * * *           *");
